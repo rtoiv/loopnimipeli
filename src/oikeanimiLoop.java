@@ -4,6 +4,7 @@ public class oikeanimiLoop {
     public static void main(String[] args) {
        //arvaa oikea nimi
        //github versio
+       //ja kolmas commit
        
         Scanner scanner = new Scanner(System.in);
         String oikeanimi = "Emma";
